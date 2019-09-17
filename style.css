@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, Sans-serif;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+    margin: 10px auto;
+
+}
+
+header{
+    background-color: #ebebeb;
+    padding: 24px;
+    margin: 10px;
+    
+}
+
+nav{
+    background-color: #ebebeb;
+    padding: 24px;
+    margin: 10px;
+    
+}
+
+#aside{
+    background-color: #ebebeb;
+    float: right;
+    height: 280px;
+    width: 360px;
+    padding: 24px;
+    margin: 10px;
+
+}
+
+.left{
+    float: left
+}
