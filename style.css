@@ -5,19 +5,20 @@ body{
     font-size: 18px;
     text-align: center;
     margin: 10px auto;
-
+    color: #777;
+    
 }
 
 header{
     background-color: #ebebeb;
-    padding: 24px;
+    padding: 36px;
     margin: 10px;
     
 }
 
 nav{
     background-color: #ebebeb;
-    padding: 24px;
+    padding: 36px;
     margin: 10px;
     
 }
@@ -32,6 +33,44 @@ nav{
 
 }
 
+Section{
+    background-color: #ebebeb;
+    height: 280px;
+    width: 460px;
+    padding: 24px;
+    margin: 10px;
+    
+}
+
+Article{
+    background-color: #777;
+    color: #ebebeb; 
+    height: 160x;
+    width: 410px;
+    margin-top: 48px;
+    padding: 24px;
+    
+}
+
+h1, p{
+    background-color: #ebebeb;
+    color: #777;
+    width: 360px;
+    margin: 10px auto;
+    padding: 18px;
+
+}
+
 .left{
     float: left
+
 }
+
+footer{
+    background-color: #ebebeb;
+    padding: 36px;
+    margin: 10px;
+    color: #777;
+    clear: both
+}
+
